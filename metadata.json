@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Comando de Sistema de IA",
+  "description": "Um aplicativo para gerar comandos de sistema para assistentes virtuais de IA com base nas necessidades da empresa, persona e caso de uso.",
+  "requestFramePermissions": []
+}
